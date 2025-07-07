@@ -13,6 +13,7 @@ body {
 
 header {
   width: 100%; /* Full width */
+  max-width: 100%;
   height: 100px; /* Fixed height */
   padding: 10px 10px; /* Padding for top and bottom */
 }
@@ -50,6 +51,7 @@ header {
 }
 
 h1 {
+  max-width: 90%; /* Full width */
   border: #b700ff solid 5px; /* Border color */
   border-radius: 10px; /* Rounded corners */
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -141,5 +143,5 @@ footer {
   position: fixed; /* Fixed position at the bottom */
   bottom: 0; /* Align to the bottom */
   width: 10%; /* Full width */
-  min-width: 400px; /* Minimum width */
+  min-width: 200px; /* Minimum width */
 }
