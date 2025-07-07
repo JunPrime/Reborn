@@ -140,4 +140,5 @@ footer {
   position: fixed; /* Fixed position at the bottom */
   bottom: 0; /* Align to the bottom */
   width: 10%; /* Full width */
+  min-width: 100px; /* Minimum width */
 }
