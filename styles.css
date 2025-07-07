@@ -136,7 +136,7 @@ main {
 }
 
 footer {
-  background-color: #32769e; /* Footer background color */
+  background-color: rgba(50, 118, 158, 0.226); /* Footer background color */
   color: white; /* Footer text color */
   text-align: center; /* Centered text */
   padding: 10px; /* Padding for footer */
