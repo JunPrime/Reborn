@@ -12,6 +12,7 @@ body {
 }
 
 header {
+  width: 100%; /* Full width */
   height: 100px; /* Fixed height */
   padding: 10px 10px; /* Padding for top and bottom */
 }
