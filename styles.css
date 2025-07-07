@@ -8,7 +8,7 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Font family */
   background-repeat: no-repeat; /* Prevent background from repeating */
   background-size: cover; /* Cover the entire background */
-  
+  width: 100%; /* Full width */
 }
 
 header {
@@ -140,5 +140,5 @@ footer {
   position: fixed; /* Fixed position at the bottom */
   bottom: 0; /* Align to the bottom */
   width: 10%; /* Full width */
-  min-width: 100px; /* Minimum width */
+  min-width: 400px; /* Minimum width */
 }
